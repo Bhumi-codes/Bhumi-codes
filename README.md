@@ -14,7 +14,7 @@
 **Cybitude Tech LLP (Remote)<br>**
 **Cyber Security Intern** | March 2025 – April 2025<br><br>
 
-Authored 15+ technical cybersecurity articles published on LinkedIn, covering topics such as VAPT, IAM, and SMB-focused security threats.<br><br> Strengthened technical communication skills while improving awareness of real-world security risks and best practices.<br><br>
+Authored 15+ technical cybersecurity articles published on LinkedIn, covering topics such as VAPT, IAM, and SMB-focused security threats. Strengthened technical communication skills while improving awareness of real-world security risks and best practices.<br><br>
 
 <h2>💻 Key Projects</h2>
 
