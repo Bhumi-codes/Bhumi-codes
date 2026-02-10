@@ -1,5 +1,72 @@
-# Hello, I’m Bhumika Rajoria! 👋
-<br>I am a passionate Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning, with a strong foundation in machine learning algorithms, data analysis, and Python-based model development. I enjoy building intelligent systems, experimenting with neural networks, and translating theoretical concepts into practical ML applications through hands-on projects.<br><br>🌟 About Me<br>🎓 Education: Bachelor of Technology in Computer Science & Engineering (AI & ML), KIET Group of Institutions, Ghaziabad (2023 – 2027) | Percentage: 82.05%<br>📍 Contact: 📞 +91-8799761926 | 📧 bhumikarajoria1408@gmail.com<br><br>🌱 Core Focus: Machine Learning Fundamentals, Neural Networks, Model Evaluation, and Data-Driven Problem Solving<br>🔍 Looking for: Internship opportunities in Machine Learning, AI Development, and Data Science<br>💡 Fun Fact: I actively practice DSA and problem-solving on LeetCode while continuously experimenting with ML models to improve accuracy and generalization.<br><br>💼 Professional Experience<br>Cybitude Tech LLP (Remote)<br>Cyber Security Intern | March 2025 – April 2025<br><br>Authored 15+ technical cybersecurity articles published on LinkedIn, covering topics such as VAPT, IAM, and SMB-focused security threats.<br><br>Strengthened technical communication skills while improving awareness of real-world security risks and best practices.<br><br>Gained industry exposure at the intersection of technology, security, and analytical thinking.<br><br>💻 Key Projects<br><br>🌟 EMNIST Character Classification using ANN<br><br>Designed and implemented a fully connected Artificial Neural Network to classify handwritten characters from the EMNIST (Balanced) dataset containing over 130,000 samples.<br><br>Applied image preprocessing, normalization, and regularization techniques to ensure stable training and reduced overfitting.<br><br>Achieved 86% training accuracy, 83% validation accuracy, and 83% test accuracy, demonstrating effective model generalization.<br>Tech: TensorFlow, Keras, Python, Google Colab, Hugging Face Spaces<br><br>🧠 Jarvis – Conversational AI Assistant<br><br>Developed a voice-activated conversational AI assistant capable of handling web automation and media playback through intent-based command execution.<br><br>Integrated Google Speech Recognition with a Word Error Rate below 20%, achieving a 90% command success rate for recognized intents.<br><br>Focused on improving usability, responsiveness, and real-time interaction.<br>Tech: Python, Google Speech API, WebSockets<br><br>🚀 Technical Skills<br><br>AI & Machine Learning<br><br>Concepts: Supervised Learning, Deep Learning, ANN, Backpropagation, Activation Functions, Regularization, Model Evaluation<br><br>Libraries: TensorFlow, Keras, Scikit-learn<br><br>Programming & Tools<br><br>Languages: Python, Java, SQL<br><br>Tools & Platforms: Git, GitHub, Google Colab, VS Code<br><br>Databases & Fundamentals: MySQL, DBMS, Data Structures & Algorithms (DSA)<br><br>🏆 Achievements & Certifications<br><br>1st Place, BHARAT SHIKSHA EXPO 2024 Hackathon<br><br>Core Member, AI Summit 2025 — contributed to social media strategy generating 70,000+ views<br><br>Content Writer, Creative Cell — created content for EPOQUE PRASTUTI 2025<br><br>Certifications from Stanford (Machine Learning Specialization), AWS Cloud Practitioner, and MongoDB University
+Hello, I’m Bhumika Rajoria! 👋
+
+I am a passionate Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning, with a strong foundation in machine learning algorithms, data analysis, and Python-based model development. I enjoy building intelligent systems, experimenting with neural networks, and translating theoretical concepts into practical ML applications through hands-on projects.
+
+🌟 About Me
+
+🎓 Education: Bachelor of Technology in Computer Science & Engineering (AI & ML), KIET Group of Institutions, Ghaziabad (2023 – 2027) | Percentage: 82.05%
+📍 Contact: 📞 +91-8799761926 | 📧 bhumikarajoria1408@gmail.com
+
+🌱 Core Focus: Machine Learning Fundamentals, Neural Networks, Model Evaluation, and Data-Driven Problem Solving
+🔍 Looking for: Internship opportunities in Machine Learning, AI Development, and Data Science
+💡 Fun Fact: I actively practice DSA and problem-solving on LeetCode while continuously experimenting with ML models to improve accuracy and generalization.
+
+💼 Professional Experience
+Cybitude Tech LLP (Remote)
+
+Cyber Security Intern | March 2025 – April 2025
+
+Authored 15+ technical cybersecurity articles published on LinkedIn, covering topics such as VAPT, IAM, and SMB-focused security threats.
+
+Strengthened technical communication skills while improving awareness of real-world security risks and best practices.
+
+Gained industry exposure at the intersection of technology, security, and analytical thinking.
+
+💻 Key Projects
+🌟 EMNIST Character Classification using ANN
+
+Designed and implemented a fully connected Artificial Neural Network to classify handwritten characters from the EMNIST (Balanced) dataset containing over 130,000 samples.
+
+Applied image preprocessing, normalization, and regularization techniques to ensure stable training and reduced overfitting.
+
+Achieved 86% training accuracy, 83% validation accuracy, and 83% test accuracy, demonstrating effective model generalization.
+
+Tech: TensorFlow, Keras, Python, Google Colab, Hugging Face Spaces
+
+🧠 Jarvis – Conversational AI Assistant
+
+Developed a voice-activated conversational AI assistant capable of handling web automation and media playback through intent-based command execution.
+
+Integrated Google Speech Recognition with a Word Error Rate below 20%, achieving a 90% command success rate for recognized intents.
+
+Focused on improving usability, responsiveness, and real-time interaction.
+
+Tech: Python, Google Speech API, WebSockets
+
+🚀 Technical Skills
+AI & Machine Learning
+
+Concepts: Supervised Learning, Deep Learning, ANN, Backpropagation, Activation Functions, Regularization, Model Evaluation
+
+Libraries: TensorFlow, Keras, Scikit-learn
+
+Programming & Tools
+
+Languages: Python, Java, SQL
+
+Tools & Platforms: Git, GitHub, Google Colab, VS Code
+
+Databases & Fundamentals: MySQL, DBMS, Data Structures & Algorithms (DSA)
+
+🏆 Achievements & Certifications
+
+1st Place, BHARAT SHIKSHA EXPO 2024 Hackathon
+
+Core Member, AI Summit 2025 — contributed to social media strategy generating 70,000+ views
+
+Content Writer, Creative Cell — created content for EPOQUE PRASTUTI 2025
+
+Certifications from Stanford (Machine Learning Specialization), AWS Cloud Practitioner, and MongoDB University
 
 
 ## 🌐 Socials:
