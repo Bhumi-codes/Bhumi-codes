@@ -1,5 +1,4 @@
 # Hello, I’m Bhumika Rajoria! 👋
-
 <br>I am an Artificial Intelligence and Machine Learning undergraduate with hands-on experience in building neural network–based models using TensorFlow and Keras. I focus on end-to-end ML workflows, including data preprocessing, model training, evaluation, and basic deployment of ML applications using Google Colab and Hugging Face Spaces.<br><br>
 
 <h2>🌟 About Me</h2>
