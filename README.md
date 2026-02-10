@@ -1,14 +1,14 @@
 # Hello, I’m Bhumika Rajoria! 👋
 
-<br>I am a passionate Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning, with a strong foundation in machine learning algorithms, data analysis, and Python-based model development. I enjoy building intelligent systems, experimenting with neural networks, and translating theoretical concepts into practical ML applications through hands-on projects.<br><br>
+<br>I am an Artificial Intelligence and Machine Learning undergraduate with hands-on experience in building neural network–based models using TensorFlow and Keras. I focus on end-to-end ML workflows, including data preprocessing, model training, evaluation, and basic deployment of ML applications using Google Colab and Hugging Face Spaces.<br><br>
 
 <h2>🌟 About Me</h2>
 
 🎓 Education: Bachelor of Technology in Computer Science & Engineering (AI & ML), KIET Group of Institutions, Ghaziabad (2023 – 2027) | Percentage: 82.05%<br>
 📍 Contact: 📞 +91-8799761926 | 📧 bhumikarajoria1408@gmail.com<br><br>
 
-🌱 Core Focus: Machine Learning Fundamentals, Neural Networks, Model Evaluation, and Data-Driven Problem Solving<br>
-🔍 Looking for: Internship opportunities in Machine Learning, AI Development, and Data Science<br>
+🌱 Core Focus: Machine Learning Fundamentals, Neural Networks, Model Evaluation & Deployment, and Data-Driven Problem Solving<br>
+🔍 Looking for: Internship opportunities in Machine Learning and Data Science<br>
 💡 Fun Fact: I actively practice DSA and problem-solving on LeetCode while continuously experimenting with ML models to improve accuracy and generalization.<br><br>
 
 <h2>💼 Professional Experience</h2>
@@ -52,10 +52,12 @@ Databases & Fundamentals: MySQL, DBMS, Data Structures & Algorithms (DSA)<br><br
 <h2>🏆 Achievements & Certifications</h2>
 
 1st Place, BHARAT SHIKSHA EXPO 2024 Hackathon<br><br>
-Core Member, AI Summit 2025 — contributed to social media strategy generating 70,000+ views<br><br>
-Content Writer, Creative Cell — created content for EPOQUE PRASTUTI 2025<br><br>
-Certifications from Stanford (Machine Learning Specialization), AWS Cloud Practitioner, and MongoDB University
 
+Certifications :
+- Advanced Learning Algorithms — Stanford University (Feb 2026)
+- Supervised Machine Learning: Regression and Classification — Stanford University (Dec 2025)
+- AWS Certified Cloud Practitioner (CLF-C02) — AWS (Nov 2025)
+- Introduction to MongoDB — MongoDB University (Sept 2025)
 
 
 ## 🌐 Socials:
