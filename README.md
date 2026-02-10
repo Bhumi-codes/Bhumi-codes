@@ -20,30 +20,30 @@ Authored 15+ technical cybersecurity articles published on LinkedIn, covering to
 
 <h3>🌟 EMNIST Character Classification using ANN</h3>
 
-Designed and implemented a fully connected **Artificial Neural Network** to classify handwritten characters from the **EMNIST (Balanced) dataset** containing over **130,000 samples**.<br><br>
-Applied image preprocessing, normalization, and regularization techniques to ensure stable training and reduced overfitting.<br><br>
-Achieved 86% training accuracy, 83% validation accuracy, and **83% test accuracy, demonstrating effective model generalization**.<br>
+- Designed and implemented a fully connected **Artificial Neural Network** to classify handwritten characters from the **EMNIST (Balanced) dataset** containing over **130,000 samples**.<br><br>
+- Applied image preprocessing, normalization, and regularization techniques to ensure stable training and reduced overfitting.<br><br>
+- Achieved 86% training accuracy, 83% validation accuracy, and **83% test accuracy, demonstrating effective model generalization**.<br>
 Tech: TensorFlow, Keras, Python, Google Colab, Hugging Face Spaces<br><br>
 
 <h3>🧠 Jarvis – Conversational AI Assistant</h3>
 
-Developed a **voice-activated conversational AI assistant** capable of handling web automation and media playback through intent-based command execution.<br><br>
-Integrated Google Speech Recognition with a Word Error Rate below 20%, achieving a **90% command success rate** for recognized intents.<br><br>
-Focused on improving usability, responsiveness, and real-time interaction.<br>
+- Developed a **voice-activated conversational AI assistant** capable of handling web automation and media playback through intent-based command execution.<br><br>
+- Integrated Google Speech Recognition with a Word Error Rate below 20%, achieving a **90% command success rate** for recognized intents.<br><br>
+- Focused on improving usability, responsiveness, and real-time interaction.<br>
 Tech: Python, Google Speech API, WebSockets<br><br>
 
 <h2>🚀 Technical Skills</h2>
 
 <h3>AI & Machine Learning</h3>
 
-**Concepts:** Supervised Learning, Deep Learning, ANN, Backpropagation, Activation Functions, Regularization, Model Evaluation<br><br>
-**Libraries:** TensorFlow, Keras, Scikit-learn<br><br>
+- **Concepts:** Supervised Learning, Deep Learning, ANN, Backpropagation, Activation Functions, Regularization, Model Evaluation<br><br>
+- **Libraries:** TensorFlow, Keras, Scikit-learn<br><br>
 
 <h3>Programming & Tools</h3>
 
-**Languages:** Python, Java, SQL<br><br>
-**Tools & Platforms:** Git, GitHub, Google Colab, VS Code<br><br>
-**Databases & Fundamentals:** MySQL, DBMS, Data Structures & Algorithms (DSA)<br><br>
+- **Languages:** Python, Java, SQL<br><br>
+- **Tools & Platforms:** Git, GitHub, Google Colab, VS Code<br><br>
+- **Databases & Fundamentals:** MySQL, DBMS, Data Structures & Algorithms (DSA)<br><br>
 
 <h2>🏆 Achievements & Certifications</h2>
 
