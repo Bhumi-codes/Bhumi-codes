@@ -20,8 +20,8 @@ Authored 15+ technical cybersecurity articles published on LinkedIn, covering to
 
 <h3>🌟 EMNIST Character Classification using ANN</h3>
 
-- Designed and implemented a fully connected **Artificial Neural Network** to classify handwritten characters from the **EMNIST (Balanced) dataset** containing over **130,000 samples**.<br><br>
-- Applied image preprocessing, normalization, and regularization techniques to ensure stable training and reduced overfitting.<br><br>
+- Designed and implemented a fully connected **Artificial Neural Network** to classify handwritten characters from the **EMNIST (Balanced) dataset** containing over **130,000 samples**.
+- Applied image preprocessing, normalization, and regularization techniques to ensure stable training and reduced overfitting.
 - Achieved 86% training accuracy, 83% validation accuracy, and **83% test accuracy, demonstrating effective model generalization**.<br>
 Tech: TensorFlow, Keras, Python, Google Colab, Hugging Face Spaces<br><br>
 
