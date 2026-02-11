@@ -50,8 +50,8 @@ Authored 15+ technical cybersecurity articles published on LinkedIn, covering to
 **1st Place, BHARAT SHIKSHA EXPO 2024 Hackathon**<br><br>
 
 Certifications :
-- **Advanced Learning Algorithms** — Stanford University (Feb 2026)
-- **Supervised Machine Learning: Regression and Classification** — Stanford University (Dec 2025)
+- **Advanced Learning Algorithms** — Stanford (Online) (Feb 2026)
+- **Supervised Machine Learning: Regression and Classification** — Stanford (Online) (Dec 2025)
 - **AWS Certified Cloud Practitioner (CLF-C02)** — AWS (Nov 2025)
 - **Introduction to MongoDB — MongoDB University** (Sept 2025)
 
