@@ -23,14 +23,14 @@ Authored 15+ technical cybersecurity articles published on LinkedIn, covering to
 - Designed and implemented a fully connected **Artificial Neural Network** to classify handwritten characters from the **EMNIST (Balanced) dataset** containing over **130,000 samples**.
 - Applied image preprocessing, normalization, and regularization techniques to ensure stable training and reduced overfitting.
 - Achieved 86% training accuracy, 83% validation accuracy, and **83% test accuracy, demonstrating effective model generalization**.<br>
-Tech: TensorFlow, Keras, Python, Google Colab, Hugging Face Spaces<br><br>
+**Tech: TensorFlow, Keras, Python, Google Colab, Hugging Face Spaces<br><br>**
 
 <h3>🧠 Jarvis – Conversational AI Assistant</h3>
 
 - Developed a **voice-activated conversational AI assistant** capable of handling web automation and media playback through intent-based command execution.
 - Integrated Google Speech Recognition with a Word Error Rate below 20%, achieving a **90% command success rate** for recognized intents.
 - Focused on improving usability, responsiveness, and real-time interaction.<br>
-Tech: Python, Google Speech API, WebSockets<br><br>
+**Tech: Python, Google Speech API<br><br>**
 
 <h2>🚀 Technical Skills</h2>
 
