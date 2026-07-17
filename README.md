@@ -26,7 +26,7 @@ Authored 15+ technical cybersecurity articles published on LinkedIn, covering to
 - Developed an end-to-end regression pipeline to predict student maths scores using structured data, including preprocessing, feature engineering, and model evaluation.
 - Compared a set of regression models to achieve an **R2 score of 88%**.
 - Validated model performance using visualizations to ensure generalization.<br>
-**Tech: Python, Google Speech API<br><br>**
+**Tech: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn<br><br>**
 
 <h3>🌟 EMNIST Character Classification using ANN</h3>
 
