@@ -3,7 +3,7 @@
 
 <h2>🌟 About Me</h2>
 
-🎓 **Education:** Bachelor of Technology in Computer Science & Engineering (AI & ML), KIET Group of Institutions, Ghaziabad (2023 – 2027) | Percentage: 82.05%<br>
+🎓 **Education:** Bachelor of Technology in Computer Science & Engineering (AI & ML), KIET Group of Institutions, Ghaziabad (2023 – 2027) | Percentage: 82.78%<br>
 📍 **Contact:** 📞 +91-8799761926 | 📧 bhumikarajoria1408@gmail.com<br>
 🌱 **Core Focus:** Machine Learning Fundamentals, Neural Networks, Model Evaluation & Deployment, and Data-Driven Problem Solving<br>
 🔍 **Looking for:** Internship opportunities in Machine Learning and Data Science<br>
